@@ -1,0 +1,36 @@
+header{
+    color:cadetblue;
+}
+header{
+    font-size: 30px;
+}
+nav{
+    font-size: 26px;
+}
+a{
+    color:chocolate;
+}
+h3{
+    font-size: 24px;
+}
+h3{
+    color: #5463FF;
+}
+p{
+    font-size: 18px;
+}
+ul{
+    list-style-position: inside
+}
+ol{
+    list-style-position: inside
+}
+li{
+    font-size: 20px;
+}
+li{
+    color: #7FB5FF;
+}
+.text-yellow{
+    color: yellowgreen;
+}
